@@ -1,0 +1,2 @@
+--INSERT INTO `doctor` (`id`, fullName`, `hospitalAddress`, `phoneNumber`, `type`) VALUES
+--('22','Doc1001', 'Kokuvil', '32424254232534', 'aaaaaa');
